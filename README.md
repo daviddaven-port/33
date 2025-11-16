@@ -15,9 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Notes (personal use)
-- Learning on a small dev VM; budget first.
-- No commercial use, mining, scraping, or automation.
-- Keeping everything reproducible and minimal.
 - Last updated: 2025-11-02 (America/Chicago)
 
